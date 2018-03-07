@@ -1,0 +1,6 @@
+C:\Users\Z50\Desktop\Proje 2.1\Proje 2.1\bin\Debug\Proje 2.1.exe.config
+C:\Users\Z50\Desktop\Proje 2.1\Proje 2.1\bin\Debug\Proje 2.1.exe
+C:\Users\Z50\Desktop\Proje 2.1\Proje 2.1\bin\Debug\Proje 2.1.pdb
+C:\Users\Z50\Desktop\Proje 2.1\Proje 2.1\obj\Debug\Proje 2.1.csprojResolveAssemblyReference.cache
+C:\Users\Z50\Desktop\Proje 2.1\Proje 2.1\obj\Debug\Proje 2.1.exe
+C:\Users\Z50\Desktop\Proje 2.1\Proje 2.1\obj\Debug\Proje 2.1.pdb
